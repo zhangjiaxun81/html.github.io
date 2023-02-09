@@ -168,7 +168,7 @@ $(function () {
         */
         $.getJSON('https://api.uomg.com/api/rand.music?', {
             // sort: '抖音榜'
-			mid: '7172659866'
+			mid: '2176086447'
             ,format: 'json'
         }, function(json, textStatus) {
             if (json.code == 1) {
